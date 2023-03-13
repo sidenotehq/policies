@@ -7,7 +7,7 @@ description: All the third-party subprocessors that we use to run StandupBot.
 
 *Last updated: March 13, 2023*
 
-We use third party subprocessors, such as cloud computing providers and customer support software, to run StandupBot. We establish GDPR-compliant data processing agreements with each subprocessor, extending [GDPR safeguards](/policies/privacy) everywhere personal data is processed.
+We use third party subprocessors, such as cloud computing providers and customer support software, to run StandupBot. We establish GDPR-compliant data processing agreements with each subprocessor, extending [GDPR safeguards](/policies/privacy/) everywhere personal data is processed.
 
 The following is a list of personal data subprocessors we use. 
 

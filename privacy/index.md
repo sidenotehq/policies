@@ -57,7 +57,7 @@ We also store information you may volunteer, for example, written responses to s
 
 ## When we access or share your information
 
-**To provide products or services you’ve requested**. We use some third-party subprocessors to help run our applications and provide the Services to you. You can view the third-party subprocessors we use for each of our products: [StandupBot](/policies/privacy/standupbot-subprocessors), [Folding Burritos](/policies/privacy/foldingburritos-subprocessors). We also use third-party processors for other business functions such as managing newsletter subscriptions, sending customer surveys, and providing our company storefront. You can view the list at [Company processors](/policies/privacy/company-processors).
+**To provide products or services you’ve requested**. We use some third-party subprocessors to help run our applications and provide the Services to you. You can view the third-party subprocessors we use for each of our products: [StandupBot](/policies/privacy/standupbot-subprocessors/), [Folding Burritos](/policies/privacy/foldingburritos-subprocessors/). We also use third-party processors for other business functions such as managing newsletter subscriptions, sending customer surveys, and providing our company storefront. You can view the list at [Company processors](/policies/privacy/company-processors/).
 
 No Sidenote human looks at your content except for limited purposes with your express permission, for example, if an error occurs that stops an automated process from working and requires manual intervention to fix. These are rare cases, and when they happen, we look for root cause solutions as much as possible to avoid them recurring. We may also access your data if required in order to respond to legal process (see “When required under applicable law” below).
 
@@ -65,7 +65,7 @@ No Sidenote human looks at your content except for limited purposes with your ex
 
 **To help you troubleshoot or squash a software bug, with your permission.** If at any point we need to access your content to help you with a support case, we will ask for your consent before proceeding.
 
-**To investigate, prevent, or take action regarding [restricted uses](/policies/abuse).** Accessing a customer’s account when investigating potential abuse is a measure of last resort. We want to protect the privacy and safety of both our customers and the people reporting issues to us, and we do our best to balance those responsibilities throughout the process. If we discover you are using our products for a restricted purpose, we will take action as necessary, including notifying appropriate authorities where warranted.
+**To investigate, prevent, or take action regarding [restricted uses](/policies/abuse/).** Accessing a customer’s account when investigating potential abuse is a measure of last resort. We want to protect the privacy and safety of both our customers and the people reporting issues to us, and we do our best to balance those responsibilities throughout the process. If we discover you are using our products for a restricted purpose, we will take action as necessary, including notifying appropriate authorities where warranted.
 
 **When required under applicable law.**
 
@@ -106,7 +106,7 @@ All data is encrypted via [SSL/TLS](https://en.wikipedia.org/wiki/Transport_Laye
 
 In our applications, we may give you the option to _trash_ or _delete_ content. Anything you trash in your product accounts while they are active will be kept in an accessible trash can for about 25 days (it varies a little by product) — on the other hand, if you delete will be immediately unavailable. After that time, the trashed or deleted content cannot be accessed via the application and we are not able to retrieve it for you. The trashed content may remain on our active servers for another 30 days, and copies of the content may be held in backups of our application databases for up to another 30 days after that. Altogether, any content trashed or deleted in your product accounts should be purged from all of our systems and logs within 90 days. 
 
-If you choose to cancel your account, your content will become immediately inaccessible and should be purged from our systems in full within 60 days. This applies both for cases when an account owner directly cancels and for auto-canceled accounts. Please refer to our [Cancellation policy](/policies/cancellation) for more details.
+If you choose to cancel your account, your content will become immediately inaccessible and should be purged from our systems in full within 60 days. This applies both for cases when an account owner directly cancels and for auto-canceled accounts. Please refer to our [Cancellation policy](/policies/cancellation/) for more details.
 
 ## Location of site and data
 

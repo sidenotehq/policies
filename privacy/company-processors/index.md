@@ -9,7 +9,7 @@ description: Sidenote, Lda. uses some third-party processors for company purpose
 
 We as a company use third-party software that may process your information under certain circumstances.
 
-For the following processors, we have established GDPR-compliant data processing agreements, extending [GDPR safeguards](/policies/privacy) everywhere personal data is processed.
+For the following processors, we have established GDPR-compliant data processing agreements, extending [GDPR safeguards](/policies/privacy/) everywhere personal data is processed.
 
 * [Cloudflare Pages](https://www.cloudflare.com/privacypolicy/). Website hosting.
 * [HelloSign](https://www.hellosign.com/trust/compliance/gdpr). Electronic signature service.

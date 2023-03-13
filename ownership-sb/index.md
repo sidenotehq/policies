@@ -11,7 +11,7 @@ StandupBot accounts are owned by individuals, not by organizations. When you sig
 
 Account owners can:
 
-- **Access and export all data in an account**: account owners can add themselves to any Standup. As an account owner, you can also create an HTML export of your StandupBot account data at any time (just get in touch with our support team). These exports function include everything already accessible to you in your StandupBot account. The exports do not include website interaction logs for any account users and we do not provide such meta-data to account owners. For more details, please read our [Privacy policy](/policies/privacy), which outlines what meta-data we collect and for what purposes.
+- **Access and export all data in an account**: account owners can add themselves to any Standup. As an account owner, you can also create an HTML export of your StandupBot account data at any time (just get in touch with our support team). These exports function include everything already accessible to you in your StandupBot account. The exports do not include website interaction logs for any account users and we do not provide such meta-data to account owners. For more details, please read our [Privacy policy](/policies/privacy/), which outlines what meta-data we collect and for what purposes.
 - **Manage all aspects of the account's subscription:** including updating billing information; adding more users and account administrators; and canceling an account.
 - **Designate other account owners**: StandupBot accounts can have multiple owners. We recommend designating other owners you trust, so that updates can be made to the account when you're not available.
 
