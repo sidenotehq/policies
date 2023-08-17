@@ -111,7 +111,7 @@ Processor shall take reasonable steps to ensure the reliability of any employee,
 
 9.1 Subject to this section 9 Processor shall promptly and in any event within
 
-10 business days of the date of cessation of any Services involving the Processing of Company Personal Data (the “Cessation Date”), delete and procure the deletion of all copies of those Company Personal Data.
+60 business days of the date of cessation of any Services involving the Processing of Company Personal Data (the “Cessation Date”), delete and procure the deletion of all copies of those Company Personal Data.
 
 10. Audit rights
 
