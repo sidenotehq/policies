@@ -5,16 +5,23 @@ description: 'Sidenote Data Processing Agreement.'
 
 # Data Processing Agreement
 
-This Data Processing Agreement (“Agreement“) forms part of the Contract for
-Services (“Principal Agreement“) between
+This Data Processing Agreement (“Agreement“) forms part of the Contract for Services (“Principal Agreement“) between 
+
 _____________________
 _____________________
 _____________________
+
 (the “Company”) and
+
 **Sidenote, Lda.**
+
 Av. da República, 50, 2º. 1050-196 Lisboa, Portugal
+
 VAT ID: PT514061286
+
 (the “Data Processor”)
+
+
 (together as the “Parties”)
 
 WHEREAS
@@ -132,15 +139,22 @@ Processor shall take reasonable steps to ensure the reliability of any employee,
 
 IN WITNESS WHEREOF, this Agreement is entered into with effect from the date first set out below.
 
-Your Company
+**Your Company**
+
 Signature ______________________________
+
 Name: ________________________________
+
 Title: _________________________________
+
 Date Signed: ___________________________
 
-Sidenote, Lda.
-Signature ______________________________
-Name: Daniel Zacarias
-Title: Managing Partner
-Date Signed: 17-08-2023
+**Sidenote, Lda.**
 
+Signature: (Pending)
+
+Name: Daniel Zacarias
+
+Title: Managing Partner
+
+Date Signed: 17-08-2023
