@@ -5,7 +5,7 @@ description: The privacy of your data — and it is your data, not ours! — is 
 
 # Privacy policy
 
-*Last updated: March 13, 2023*
+*Last updated: November 24, 2023*
 
 The privacy of your data—and it is your data, not ours!—is a big deal to us. In this policy, we lay out: what data we collect and why; how your data is handled; and your rights with respect to your data. We promise we never sell your data: never have, never will.
 
@@ -107,6 +107,10 @@ All data is encrypted via [SSL/TLS](https://en.wikipedia.org/wiki/Transport_Laye
 In our applications, we may give you the option to _trash_ or _delete_ content. Anything you trash in your product accounts while they are active will be kept in an accessible trash can for about 25 days (it varies a little by product) — on the other hand, if you delete will be immediately unavailable. After that time, the trashed or deleted content cannot be accessed via the application and we are not able to retrieve it for you. The trashed content may remain on our active servers for another 30 days, and copies of the content may be held in backups of our application databases for up to another 30 days after that. Altogether, any content trashed or deleted in your product accounts should be purged from all of our systems and logs within 90 days. 
 
 If you choose to cancel your account, your content will become immediately inaccessible and should be purged from our systems in full within 60 days. This applies both for cases when an account owner directly cancels and for auto-canceled accounts. Please refer to our [Cancellation policy](/policies/cancellation/) for more details.
+
+## Data retention
+
+We keep your information for the time necessary for the purposes for which it is processed. The length of time for which we retain information depends on the purposes for which we collected and use it and your choices, after which time we may delete and/or aggregate it. We may also retain and use this information as necessary to comply with our legal obligations, resolve disputes, and enforce our agreements. Through this policy, we have provided specific retention periods for certain types of information, including [product interactions](#product-interactions), [deleted content](#what-happens-when-you-delete-content-in-your-product-accounts) and [cancelled accounts](#what-happens-when-you-delete-content-in-your-product-accounts).
 
 ## Location of site and data
 
